@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1072451990720",
+    "project_id": "home-assistant-9e6b0",
+    "storage_bucket": "home-assistant-9e6b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072451990720:android:279479b520f1f3f0c9a925",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0Axm6z0VnSehPhTVymS7DPGamUgiI4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072451990720:android:313bb9272aed2416c9a925",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0Axm6z0VnSehPhTVymS7DPGamUgiI4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072451990720:android:11895d79ea262826c9a925",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.minimal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0Axm6z0VnSehPhTVymS7DPGamUgiI4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072451990720:android:bd3ea8b52d6816f5c9a925",
+        "android_client_info": {
+          "package_name": "io.homeassistant.companion.android.minimal.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0Axm6z0VnSehPhTVymS7DPGamUgiI4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
